@@ -1,0 +1,30 @@
+{
+  "name": "angular-slashdb",
+  "version": "0.0.3",
+  "description": "Angular provider for SlashDB.",
+  "main": "",
+  "authors": [
+    "vt.enterprise"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/SlashDB/angular-slashdb",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "d106f2b7daa7d5e0a5e67a39fd227f99c1cf4b0a"
+  },
+  "_source": "https://github.com/SlashDB/angular-slashdb.git",
+  "_target": "~0.0.3",
+  "_originalSource": "angular-slashdb"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "angular-slashdb",
+  "version": "0.0.3",
+  "description": "Angular provider for SlashDB.",
+  "main": "",
+  "authors": [
+    "vt.enterprise"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
