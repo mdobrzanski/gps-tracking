@@ -8,7 +8,7 @@ angular.module('gpsTracker.main', ['ngRoute', 'angularSlashDB', 'gpsTracker.map'
             controllerAs: 'ctrl'
 
         });
-        slashDBProvider.setEndpoint('http://slashdb:6543')
+        slashDBProvider.setEndpoint('http://localhost:6543')
     }])
 
     .controller('MainViewCtrl', ['slashDB', function(slashDB) {
